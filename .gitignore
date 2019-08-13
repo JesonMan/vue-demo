@@ -1,3 +1,6 @@
+# 依赖
+/node_modules
+
 # 编译之后产生的目录
 /dist/
 /dll/
